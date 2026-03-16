@@ -4,3 +4,6 @@
 ## Технологии
 - HTML
 - CSS
+
+## Демо
+Сайт: affectx.github.io/KroppFitness/
